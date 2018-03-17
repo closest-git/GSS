@@ -1,3 +1,5 @@
+**GSS --- best CPU/GPU sparse solver for large sparse matrices**
+
 **GSS**(GRUS SPARSE SOLVER) is an adaptive parallel direct solver.
 To get solution of sparse linear systems:**Ax=b**, where A is large and sparse,
 GSS uses adaptive computing technology, which will run both CPU and GPUs to get more performance.
