@@ -1,0 +1,29 @@
+GSS_SPD PERSONAL, NON-COMMERCIAL USE LICENSE
+
+THIS IS A CONTRACT between you (either an individual or a single entity) and the owner of the GSS_spd solver("Licensor" or "us") and covers your use of the GSS_spd, and documentation (all of which are referred to herein as the "Software").
+
+Personal, Non-Commercial Use License. The Software is licensed to you for your personal, non-commercial use. You may install the Software on a single PC for your personal, non-commercial use only.
+
+The Software may not be used for direct or indirect commercial purposes without first obtaining a Commercial Use License. If you would like to use the Software for purposes other than your personal, non-commercial use, please contact the author(MAIL: gsp@grusoft.com ).
+
+Restrictions on Use. Licensor grants you the non-exclusive, non-transferable right to use the Software. 
+You may not redistribute the Software without Licensor's prior written consent. 
+
+You may not rent, lease, lend, or in any way distribute or transfer any rights in this Agreement or the Software to third parties without Licensor's written approval. 
+
+Prohibited uses include, without limitation, using the Software on commercial software, providing, or offering to provide, any service using the Software;  receiving compensation from others for copies or modified copies of the Software.
+
+No Warranty. The Software is being delivered to you "AS IS" and Licensor and its suppliers make no warranty as to its use or performance. LICENSOR AND ITS SUPPLIERS DO NOT AND CANNOT WARRANT THE PERFORMANCE OR RESULTS YOU MAY OBTAIN BY USING THE SOFTWARE. LICENSOR AND ITS SUPPLIERS MAKE NO WARRANTIES, EXPRESS OR IMPLIED, AS TO NONINFRINGEMENT OF THIRD PARTY RIGHTS, TITLE, MERCHANTABILITY, OR FITNESS FOR ANY PARTICULAR PURPOSE. YOU ASSUME ALL RISK ASSOCIATED WITH THE QUALITY, PERFORMANCE, INSTALLATION AND USE OF THE SOFTWARE INCLUDING, BUT NOT LIMITED TO, THE RISKS OF PROGRAM ERRORS, DAMAGE TO EQUIPMENT, LOSS OF DATA OR SOFTWARE PROGRAMS, OR UNAVAILABILITY OR INTERRUPTION OF OPERATIONS. YOU ARE SOLELY RESPONSIBLE FOR DETERMINING THE APPROPRIATENESS OF USE THE SOFTWARE AND ASSUME ALL RISKS ASSOCIATED WITH ITS USE. 
+
+Limitation of Liability. IN NO EVENT WILL LICENSOR OR ITS SUPPLIERS BE LIABLE TO YOU FOR ANY INDIRECT, INCIDENTAL, SPECIAL, PUNITIVE, CONSEQUENTIAL, OR OTHER DAMAGES WHATSOEVER, OR ANY LOSS OF REVENUE, DATA, USE, OR PROFITS, EVEN IF A LICENSOR REPRESENTATIVE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, AND REGARDLESS OF WHETHER THE CLAIM IS BASED UPON ANY CONTRACT, TORT OR OTHER LEGAL OR EQUITABLE THEORY. Some States do not allow the exclusion or limitation of incidental or consequential damages, or the exclusion of implied warranties or limitations on how long an implied warranty lasts, so the above limitations or exclusions may not apply to you.
+
+Indemnification. You agree to indemnify and hold Licensor, parents, subsidiaries, affiliates, officers and employees, harmless from any claim or demand, including reasonable attorneys' fees, made by any third party due to or arising out of your use of the Software, or the infringement by you, of any intellectual property or other right of any person or entity.
+
+Termination. Either Licensor or you may terminate this Agreement at any time. This Agreement shall terminate automatically, without notice, if you fail to comply with the terms of this Agreement. Upon any termination of this Agreement, you must discontinue use of the Software and uninstall and destroy all copies of the Software you have obtained or made. 
+
+Contact Information. If you have any questions about this Agreement, please contact gsp@grusoft.com. 
+
+DEFINITIONS
+
+DEFINITION OF NON-COMMERCIAL PURPOSES 
+"Non-Commercial Purposes" means use of the Software by an individual for publishing that does not directly or indirectly support any commercial efforts. Use of the Software for any purpose by any non-individual entity, including but not limited to any commercial entity, corporation, non-profit organization, educational institution, governmental body or group, is not permitted under this Agreement. Affiliate or associate fees that are earned by a personal blog site and are payable to a single individual and that are earned through activities incidental to the main purpose of the site are permitted under the Non-Commercial Purposes of this Agreement.
