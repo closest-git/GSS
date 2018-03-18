@@ -9,16 +9,14 @@ The high performance and generality of GSS has been verified by many commercial 
 
 
 
-**`2-3 times faster than PARDISO`**
+## `2-3 times faster than PARDISO`
 
-In most case,1 minute is enough for the numerical factorization of 1000,000 unknowns.
-The forward/backward substitution time is in seconds.
+For many large matrices, GSS is about 2-3 times faster than PARDISO and other CPU based solvers.
 
 **CPU-GPU hybrid computing**
 
 GSS is the first sparse solver that supports NVidia CUDA technology.
 Novel algorithm to run CPU and GPU simultaneously.
-For large matrices that need long time computing, GSS is about 2-3 times faster than PARDISO and other CPU based solvers.
 
 **Robust**
 
