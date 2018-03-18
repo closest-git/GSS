@@ -1,4 +1,4 @@
-###GSS --- best CPU/GPU sparse solver for large sparse matrices###
+## GSS --- best CPU/GPU sparse solver for large sparse matrices
 
 **GSS**(GRUS SPARSE SOLVER) is an adaptive parallel direct solver.
 To get solution of sparse linear systems:**Ax=b**, where A is large and sparse,
@@ -9,7 +9,7 @@ The high performance and generality of GSS has been verified by many commercial 
 
 
 
-**==2-3 times faster than PARDISO==**
+**`2-3 times faster than PARDISO`**
 
 In most case,1 minute is enough for the numerical factorization of 1000,000 unknowns.
 The forward/backward substitution time is in seconds.
@@ -28,14 +28,12 @@ Handle matrices with high condition number or strange patterns. Some ill-conditi
 
 32 parameters with default value. Detailed documents and demo  codes. Supports user defined module.
 
+### C Demo
 
+Some samples in the directory "`GSS 2.4.1 x64 TRIAL\Samples\C`".
 
-###C Demo###
+### Fortran Demo
 
-Some samples in the directory "==GSS 2.4.1 x64 TRIAL\Samples\C==".
+Some samples in the directory "```GSS 2.4.1 x64 TRIAL\Samples\Fortran```"
 
-###Fortran Demo###
-
-Some samples in the directory "==GSS 2.4.1 x64 TRIAL\Samples\Fortran=="
-
-### [**User Guide**](https://github.com/closest-git/GSS/blob/master/GSS%202.4.1%20x64%20TRIAL/doc/GSS%202.4%20quick%20start%20user%20guide.pdf)
+### [User Guide](https://github.com/closest-git/GSS/blob/master/GSS%202.4.1%20x64%20TRIAL/doc/GSS%202.4%20quick%20start%20user%20guide.pdf)
