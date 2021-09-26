@@ -1,4 +1,4 @@
-## GSS --- best CPU/GPU sparse solver for large sparse matrices
+## GSS --- Fast CPU/GPU sparse solver for large sparse matrices on Q-Learning Scheduler
 
 **GSS**(GRUS SPARSE SOLVER) is an adaptive parallel direct solver.
 To get solution of sparse linear systems:**Ax=b**, where A is large and sparse,
