@@ -1,3 +1,10 @@
+<!--
+ * @Author: Yingshi Chen
+ * 
+ * @Date: 2021-10-05 15:54:55
+ * @
+# Description: 
+-->
 ## GSS --- Fast CPU/GPU sparse solver for large sparse matrices on Q-Learning Scheduler
 
 **GSS**(GRUS SPARSE SOLVER) is an adaptive parallel direct solver.
@@ -35,3 +42,12 @@ Some samples in the directory "`GSS 2.4.1 x64 TRIAL\Samples\C`".
 Some samples in the directory "```GSS 2.4.1 x64 TRIAL\Samples\Fortran```"
 
 ### [User Guide](https://github.com/closest-git/GSS/blob/master/GSS%202.4.1%20x64%20TRIAL/doc/GSS%202.4%20quick%20start%20user%20guide.pdf)
+
+
+### Citation
+
+If you find this code useful, please consider citing:
+
+```
+Chen, Yingshi. "Learning the Markov Decision Process in the Sparse Gaussian Elimination." arXiv preprint arXiv:2109.14929 (2021).
+```
